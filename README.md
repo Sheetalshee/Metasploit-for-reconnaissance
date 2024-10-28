@@ -1,5 +1,5 @@
-## Reg.no:212222110050
-## NAME:SWETHA N
+## Reg.no: 212223230206
+## NAME: SHEETAL.R
 # Metasploit-for-reconnaissance
 # Metasploit
 Metasploit for reconnaissance in pentesting
